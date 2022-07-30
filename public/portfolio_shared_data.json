@@ -29,48 +29,73 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
+        "name": "HTML5",
+        "class": "devicon-html5-plain colored",
         "level": "95"
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
+        "name": "CSS3",
+        "class": "devicon-css3-plain colored",
         "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain colored",
+        "level": "70"
       },
       {
         "name": "Angular",
-        "class": "devicon-angularjs-plain",
+        "class": "devicon-angularjs-plain colored",
         "level": "80"
       },
       {
         "name": "TypeScript",
-        "class": "devicon-typescript-plain",
+        "class": "devicon-typescript-plain colored",
         "level": "90"
       },
       {
         "name": "JavaScript",
-        "class": "devicon-javascript-plain",
+        "class": "devicon-javascript-plain colored",
         "level": "70"
       },
       {
         "name": "Sass",
-        "class": "devicon-sass-original",
+        "class": "devicon-sass-original colored",
         "level": "75"
       },
       {
         "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
+        "class": "devicon-bootstrap-plain colored",
         "level": "85"
       },
       {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
+        "name": "jQuery",
+        "class": "devicon-jquery-plain colored",
         "level": "65"
       },
       {
-        "name": "MySql",
-        "class": "devicon-mysql-plain",
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain colored",
+        "level": "60"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original colored",
+        "level": "60"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain colored",
+        "level": "60"
+      },
+      {
+        "name": "MySQL",
+        "class": "devicon-mysql-plain colored",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain colored",
         "level": "60"
       }
     ]
