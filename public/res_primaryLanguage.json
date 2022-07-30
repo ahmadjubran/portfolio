@@ -11,42 +11,42 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Big Pasta Restaurant",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my internship. I had to develop a fake restaurant website using HTML5 and CSS3. I've learned a lot!",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/big-pasta-restaurant/p1.png",
+        "images/portfolio/big-pasta-restaurant/p2.jpg"
       ],
-      "url": "",
+      "url": "https://github.com/ahmadjubran/my-restaurant",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Restaurant",
+      "startDate": "2022",
+      "description": "simple restaurant website to make menu for your restaurant. I've used HTML5, CSS3, JavaScript to make this website.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/restaurant/p1.png",
+        "images/portfolio/restaurant/p2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/ahmadjubran/Restaurant",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         },
         {
           "class": "devicon-javascript-plain",
@@ -55,26 +55,30 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Horned animals",
+      "startDate": "2022",
+      "description": "My first React app. I've used React to make this app.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/horned-animals/p1.png",
+        "images/portfolio/horned-animals/p2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/ahmadjubran/horned-animal",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     }
