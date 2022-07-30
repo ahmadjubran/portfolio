@@ -20,8 +20,6 @@ class Footer extends Component {
           <div className="row">
             <div className="col social-links">{networks}</div>
             <div className="col">
-            </div>
-            <div className="col">
               <div className="copyright py-4 text-center">
                 <div className="container">
                   <small>
