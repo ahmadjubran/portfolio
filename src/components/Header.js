@@ -55,7 +55,7 @@ class Header extends Component {
             height="90"
             viewBox="0 0 250 250"
             style={{
-              fill: "#151513",
+              fill: "#4C566A",
               color: "#fff",
               position: "absolute",
               top: 0,
@@ -99,8 +99,8 @@ class Header extends Component {
             <Switch
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="#baaa80"
-              onColor="#353535"
+              offColor="#4c566a"
+              onColor="#D8DEE9"
               className="react-switch mx-auto"
               width={90}
               height={40}
