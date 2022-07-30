@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Ahmad Jubran portfolio
 
-Make it your own! 
+https://ahmadjubran.netlify.app/
